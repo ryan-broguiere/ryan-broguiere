@@ -3,7 +3,7 @@
 <!-- <img height = "500" src = "https://i.imgur.com/u3dRoSA.jpg"/> -->
 
 
-Hello, I'm Ryan. I am a Senior Computer Science student at CSUF graduating in Spring 2022. I am interested in Full stack web development and cybersecurity. 
+I'm Ryan. I am a Senior Computer Science student at CSUF graduating in Spring 2022. I am interested in Full stack web development and cybersecurity. 
 
 <hr> </hr>
 
