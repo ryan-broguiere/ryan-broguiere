@@ -22,7 +22,7 @@ I'm Ryan. I am a Senior Computer Science student at CSUF graduating in Spring 20
 
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-broguiere&count_private=true&theme=github_dark&hide=stars&include_all_commits=1&show_icons=true)<br>
-![Ryan's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-broguiere&theme=github_dark&layout=compact)
+<!--![Ryan's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-broguiere&theme=github_dark&layout=compact)-->
 
 ### 📫 How to reach me:
 
