@@ -3,7 +3,7 @@
 <!-- <img height = "500" src = "https://i.imgur.com/u3dRoSA.jpg"/> -->
 
 
-I'm Ryan. I am a Senior Computer Science student at CSUF graduating in Spring 2022. I am interested in Full stack web development and cybersecurity. 
+Hello, I'm Ryan. I am a Senior Computer Science student at CSUF graduating in Spring 2022. I am interested in Full stack web development and cybersecurity. 
 
 <hr> </hr>
 
@@ -22,7 +22,7 @@ I'm Ryan. I am a Senior Computer Science student at CSUF graduating in Spring 20
 
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-broguiere&count_private=true&theme=github_dark&hide=stars&include_all_commits=1&show_icons=true)<br>
-<!--![Ryan's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-broguiere&theme=github_dark&layout=compact)-->
+<!--[Ryan's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-broguiere&theme=github_dark&layout=compact)-->
 
 ### 📫 How to reach me:
 
