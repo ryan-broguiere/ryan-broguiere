@@ -35,7 +35,6 @@ I'm Ryan, a Software Developer recently graduated from CSUF in Spring 2022. I am
 ![Ryan's GitHub stats](https://github-readme-stats-ryan-broguiere.vercel.app/api?username=ryan-broguiere&count_private=true&theme=github_dark&hide=stars&include_all_commits=true&show_icons=true)<br>
 ![Ryan's Language stats](https://github-readme-stats-ryan-broguiere.vercel.app/api/top-langs/?username=ryan-broguiere&theme=github_dark&layout=compact&langs_count=10&hide=java,typescript,makefile,shell,ejs,dockerfile,procfile)
 
-<hr></hr>
 
 ### 📫 How to reach me:
 
