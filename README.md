@@ -3,7 +3,7 @@
 <!-- <img height = "500" src = "https://i.imgur.com/u3dRoSA.jpg"/> -->
 
 
-I'm Ryan, a Software Developer recently graduated from CSUF in Spring 2022. I am interested in Full stack Software Development and Cybersecurity. 
+I'm Ryan, a Software Developer recently graduated from CSUF in Spring 2022. I am interested in Software Development and Cybersecurity. 
 
 <hr> </hr>
 
@@ -18,8 +18,9 @@ I'm Ryan, a Software Developer recently graduated from CSUF in Spring 2022. I am
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### Tools: <br>
+### Tools and Platforms: <br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -30,7 +31,8 @@ I'm Ryan, a Software Developer recently graduated from CSUF in Spring 2022. I am
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ![Ryan's GitHub stats](https://github-readme-stats-ryan-broguiere.vercel.app/api?username=ryan-broguiere&count_private=true&theme=github_dark&hide=stars&include_all_commits=true&show_icons=true)<br>
 ![Ryan's Language stats](https://github-readme-stats-ryan-broguiere.vercel.app/api/top-langs/?username=ryan-broguiere&theme=github_dark&layout=compact&langs_count=10&hide=java,typescript,makefile,shell,ejs,dockerfile,procfile)
